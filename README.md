@@ -13,5 +13,5 @@ This article is intended to provide the basic and  necessary  knowledge  to
 understand the   operation   of   the   algorithm   called Kalman  filter. 
 In  the  development  of  this article,  the  origin  of  the  filter,  
 the  bases and  generalities  of  its  operation  will  be presented  and  the
-one-dimensional  and multidimensional  Kalman  filterswill  be shown. 
+one-dimensional  and multidimensional  Kalman  filters will  be shown. 
 Finally, some general conclusions about these filters will be given. 
