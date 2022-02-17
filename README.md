@@ -1,1 +1,2 @@
-# Filtros-de-Kalman
+# Filtros de Kalman
+Con  este  artículo  se  pretende brindar  los conocimientos básicosy necesariospara la comprensión delfuncionamiento    del algoritmo  denominadofiltro  de  Kalman. En   el desarrollo   de   este   artículose presentará el  origen del  filtro, lasbases  y generalidadesde  su  funcionamiento,y  semostrará el filtro de Kalman unidimensionaly   el   multidimensional.Finalmente se darán  unas  conclusiones generales acerca de estosfiltros.
